@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-      url: mongodb+srv://harshalgalwecode:admin@project01.hxhzg.mongodb.net/?retryWrites=true&w=majority&appName=Project01
-      database : Task
